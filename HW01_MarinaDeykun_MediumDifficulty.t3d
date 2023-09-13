@@ -1,0 +1,25 @@
+Begin Map Name=/Game/Maps/HW01_MarinaDeykun_MediumDifficulty
+   Begin Level NAME=PersistentLevel
+      Begin Actor Class=/Script/Engine.StaticMeshActor Name=Floor Archetype=/Script/Engine.StaticMeshActor'/Script/Engine.Default__StaticMeshActor'
+         Begin Object Class=/Script/Engine.StaticMeshComponent Name="StaticMeshComponent0" Archetype=StaticMeshComponent'/Script/Engine.Default__StaticMeshActor:StaticMeshComponent0'
+         End Object
+         Begin Object Name="StaticMeshComponent0"
+            StaticMesh=StaticMesh'"/Engine/MapTemplates/SM_Template_Map_Floor.SM_Template_Map_Floor"'
+            StreamingTextureData(0)=(PackedRelativeBox=4294901760,TexelFactor=10.013148)
+            StreamingTextureData(1)=(PackedRelativeBox=4294901760,TextureLevelIndex=1,TexelFactor=200.262970)
+            StaticMeshDerivedDataKey="STATICMESH_34081786561B425A9523C94540EA599D_359a029847e84730ba516769d0f19427Simplygon_5_5_2156_18f808c3cf724e5a994f57de5c83cc4b_680318F3495BDBDEBE4C11B39CD497CE000000000100000001000000000000000000803F0000803F00000000000000000000344203030300000000"
+            MaterialStreamingRelativeBoxes(0)=4294901760
+            VisibilityId=0
+            BodyInstance=(bAutoWeld=False)
+            RelativeLocation=(X=0.000000,Y=-135.000000,Z=20.000000)
+            RelativeScale3D=(X=5.000000,Y=5.000000,Z=5.000000)
+            CustomProperties 
+         End Object
+         StaticMeshComponent="StaticMeshComponent0"
+         RootComponent="StaticMeshComponent0"
+         ActorLabel="Floor"
+      End Actor
+   End Level
+Begin Surface
+End Surface
+End Map
