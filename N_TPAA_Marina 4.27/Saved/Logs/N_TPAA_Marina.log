@@ -5982,3 +5982,16 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2024.05.15-20.06.03:117][110]LogFileHelpers: Saving map 'HW03_MarinaDeykun_EasyDifficulty' took 0.068
 [2024.05.15-20.06.03:133][110]AssetCheck: New page: Asset Save: HW03_MarinaDeykun_EasyDifficulty
 [2024.05.15-20.06.03:133][110]LogContentValidation: Display: Validating World /Game/Maps/HW03_MarinaDeykun_EasyDifficulty.HW03_MarinaDeykun_EasyDifficulty
+[2024.05.15-20.17.15:386][220]LogContentBrowser: Attempting asset rename: HW03_MarinaDeykun_EasyDifficulty -> HW04_MarinaDeykun_EasyDifficulty
+[2024.05.15-20.17.15:475][220]LogUObjectHash: Compacting FUObjectHashTables data took   1.92ms
+[2024.05.15-20.17.15:498][220]LogSavePackage: Moving 'D:/pipsi/UED28_MarinaDeykun/N_TPAA_Marina 4.27/Saved/HW04_MarinaDeykun_EasyDifficultyF8F2E0AF4AEA567F020467803FD184D4.tmp' to 'D:/pipsi/UED28_MarinaDeykun/N_TPAA_Marina 4.27/Content/Maps/HW04_MarinaDeykun_EasyDifficulty.umap'
+[2024.05.15-20.17.15:510][220]LogFileHelpers: Saving map 'HW04_MarinaDeykun_EasyDifficulty' took 0.062
+[2024.05.15-20.17.15:592][220]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2024.05.15-20.17.15:618][220]LogUObjectHash: Compacting FUObjectHashTables data took   1.96ms
+[2024.05.15-20.17.15:638][220]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2024.05.15-20.17.15:854][220]AssetCheck: New page: Asset Save: HW04_MarinaDeykun_EasyDifficulty
+[2024.05.15-20.17.15:854][220]LogContentValidation: Display: Validating World /Game/Maps/HW04_MarinaDeykun_EasyDifficulty.HW04_MarinaDeykun_EasyDifficulty
+[2024.05.15-20.17.18:718][357]LogUObjectHash: Compacting FUObjectHashTables data took   3.42ms
+[2024.05.15-20.17.18:734][357]LogSavePackage: Moving 'D:/pipsi/UED28_MarinaDeykun/N_TPAA_Marina 4.27/Saved/HW04_MarinaDeykun_EasyDifficulty9B7BF9FA47FE055A38F9418268237FF1.tmp' to 'D:/pipsi/UED28_MarinaDeykun/N_TPAA_Marina 4.27/Content/Maps/HW04_MarinaDeykun_EasyDifficulty.umap'
+[2024.05.15-20.17.18:760][357]AssetCheck: New page: Asset Save: HW04_MarinaDeykun_EasyDifficulty
+[2024.05.15-20.17.18:760][357]LogContentValidation: Display: Validating World /Game/Maps/HW04_MarinaDeykun_EasyDifficulty.HW04_MarinaDeykun_EasyDifficulty
